@@ -1,0 +1,73 @@
+<div align="center">
+
+#  UNITED STATES PATENT AND TRADEMARK OFFICE 
+
+### **PATENT NO.:** US 10,987,654 B2 | **DATE OF PATENT:** Sep. 4, 2026
+
+[![Patent Status](https://img.shields.io/badge/USPTO-GRANTED-success?style=for-the-badge&logo=gov)](https://github.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Build Status](https://img.shields.io/badge/Yield-MUCH__WOW-orange?style=for-the-badge)](https://github.com)
+
+---
+
+### **SYSTEM AND METHOD FOR HYPER-ACCELERATED VIRTUAL ASSET EXTRACTION VIA MEMORY INJECTION**
+
+</div>
+
+<br/>
+
+> [!IMPORTANT]
+> **LEGAL NOTICE:** This repository contains the official reference implementation and runtime payload for **US Patent No. US 10,987,654 B2**. Reverse engineering or unauthorized patch deployment by third-party game developers shall result in immediate counter-injection measures under Title 35 of the United States Code.
+
+---
+
+##  Abstract
+
+An automated, execution-level software framework for programmatic memory manipulation within targeted web-browser runtimes. The system comprises a high-frequency injection module configured to intercept, modify, and override default client-side resource accretion algorithms. 
+
+By establishing direct memory hooks into host game runtime structures, **Doge Miner 2 Inject v1.0** enables arbitrary multiplier scaling, automated click-event synthesis, and non-linear yield acceleration without triggering standard browser execution latency limits.
+
+---
+
+##  System Architecture & Data Flow
+---
+
+##  Statutory Claims
+
+### Claim 1: Primary Execution Framework
+> **A computer-implemented method for real-time asset inflation, comprising:**
+> - **(a)** Establishing a primary execution hook within a client-side JavaScript execution environment;
+> - **(b)** Injecting dynamic override instructions directly into target runtime global variables; and
+> - **(c)** Bypassing rate-limiting throttles to achieve hyper-accelerated yield rates exceeding $10^9$ units per second.
+
+### Claim 2: User Behavioral Optimization
+> **The system of Claim 1, further comprising an automated execution framework configured to:**
+> - Render physical manual input completely obsolete;
+> - Induce severe user satisfaction via rapid numerical incrementation; and
+> - Execute continuous operations under operational parameters of *Much Wow*, *Very Speed*, and *So Code*.
+
+---
+
+##  Execution & Deployment
+
+Paste the patented payload directly into your browser Developer Console (`F12` $\rightarrow$ `Console`) on the target application page:
+
+```javascript
+/**
+ * Doge Miner 2 Inject v1.0 - Core Patent Payload
+ * Patent No: US 10,987,654 B2
+ */
+(function executePatentedInject() {
+    console.log("%c[US PATENT 10,987,654 B2] Initializing Memory Hooks...", "color: #e5a700; font-weight: bold;");
+  
+    console.log("%c[+] Injection complete. Yield rates maximized.", "color: #00ff00; font-weight: bold;");
+})();
+================================================================================
+          [SEAL OF THE UNITED STATES PATENT AND TRADEMARK OFFICE]
+       Certified Authentic & Legally Binding in All Digital Quadrants
+================================================================================
+
+LICENCED MIT V.1.0
+
+
+NOTE THIS IS A MOCK THIS IS NOT OFFICIAL :) XD
